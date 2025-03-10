@@ -1,0 +1,11 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f2f5;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

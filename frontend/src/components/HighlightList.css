@@ -1,0 +1,51 @@
+.highlights-container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.upload-section {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.highlights-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.highlight-card {
+  background-color: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+}
+
+.analysis-section {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #eee;
+}
+
+.progress-indicator {
+  margin: 8px 0;
+}
+
+.error-details {
+  margin: 8px 0;
+  padding: 8px;
+  background-color: #ffebee;
+  border-radius: 4px;
+}
+
+.error-message {
+  margin-left: 16px;
+}
+
+.progress {
+  margin-left: 16px;
+}
